@@ -88,6 +88,10 @@ InformationEngine/
 └── .gitignore
 ```
 
+## Author
+
+This package is maintained by Shiphrah Rowlands. 
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

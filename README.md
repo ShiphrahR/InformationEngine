@@ -95,13 +95,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Citation
-
-If you use this code in your research, please cite:
-
-[Add your citation information here]
-
-## Contact
-
-[Add your contact information here]
